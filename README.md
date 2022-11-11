@@ -17,7 +17,7 @@ Single package with to many data structures and writed in "Golang" with generics
 
 - **Minimize time**. Minimize time to creation data structures in yours projects .
 
-- **Simple** With generics features you don't need implements diferents type of data strucutres for eatch data type (int, string, float, bool or struct type).
+- **Simple** With generics features you don't need implements differents type of data structures for each data type (int, string, float, bool or struct type).
 
 
 
